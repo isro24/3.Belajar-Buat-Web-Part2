@@ -1,0 +1,40 @@
+*,
+html{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    height: 100vh;
+}
+
+.Item1{
+    text-align: center;
+    justify-content: center;
+}
+
+.Item2{
+    text-align: center;
+    justify-content: center;
+}
+
+.Item3{
+    text-align: center;
+    justify-content: center;
+}
+
+.Item4{
+    text-align: center;
+    justify-content: center;
+}
+
+.Item5{
+    text-align: center;
+    justify-content: center;
+}
+
+.-Items{
+    height: 100px;
+    text-align: center;
+}
